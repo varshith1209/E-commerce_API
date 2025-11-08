@@ -1,9 +1,7 @@
 <!-- # Django E-commerce API
 
 ## Project Overview
-This Django project is a backend API for an e-commerce application. It provides endpoints for managing products, categories, cart items, reviews, user authentication, orders, and payment integration using Stripe.
-
-## Features
+This Django project is a backend API for an e-commerce application. It provides endpoints for managing products, categories, cart items, reviews, user authentication, orders,
 - User authentication and management
 - Product and category listing
 - Cart functionality (add, update, delete items)
